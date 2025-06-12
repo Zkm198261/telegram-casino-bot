@@ -1,6 +1,6 @@
 [bot]
 # Bot token. Obtain one from https://t.me/botfather
-token = "1234567890:AaBbCcDdEeFfGrOoShALlMmNnOoPpQqRrSs"
+token = "7867128176:AAE0sXAwuSTwBzEAUOzlek0Q9N_MeOj6Rmc"
 # Where to store users' data. Options: "memory", "redis".
 # Memory storage gets wiped upon bot restart, Redis uses persistency.
 fsm_mode = "redis"
